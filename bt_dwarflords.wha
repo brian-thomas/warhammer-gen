@@ -1,0 +1,54 @@
+Wounds:1
+BSkill:3
+Name:Dwarf
+Tough:C
+Weapon_Damage:0
+Weapon:Battle Axe
+Attacks:1
+Group:Dwarf Lords
+WStr:2
+Init:2
+Nrof:3
+Armour:Chain+Shield
+WSkill:4
+Move:3.5/3.5
+RouteFac:1.333
+Missile_Weapon_Damage:3
+Missile_Weapon:None
+UNITEND
+Wounds:1
+Name:Archers
+BSkill:3
+Tough:B
+Weapon_Damage:0
+Weapon:Light Sword
+Attacks:1
+Group:Human
+WStr:1
+Init:3
+Nrof:3
+WSkill:1
+Armour:None
+Move:4/3
+RouteFac:1.0
+Missile_Weapon_Damage:3
+Missile_Weapon:Long bow
+UNITEND
+Wounds:1
+BSkill:3
+Name:Spear Men
+Tough:B
+Weapon_Damage:0
+Weapon:Short Spear
+Attacks:1
+Group:Human
+WStr:2
+Init:3
+Nrof:3
+WSkill:3
+Armour:Chain+Shield
+Move:4/3
+RouteFac:1.0
+Missile_Weapon_Damage:0
+Missile_Weapon:None
+UNITEND

@@ -1,0 +1,22 @@
+
+	 A R M Y  C O M P O S I T I O N 
+ #                  Name     Move   WSkill   BSkill     WStr    Tough   Wounds     Init  Attacks 
+  6|      Hobgoblin Lord|      3 |      4 |      2 |      2 |      C |      1 |      3 |      1 |
+ 18|  Red Goblin Archers|      3 |      3 |      3 |      2 |      B |      1 |      2 |      1 |
+ 18|        Great Goblin|      3 |      3 |      3 |      2 |      B |      1 |      3 |      1 |
+ 30| Lesser_Night_Goblin|      3 |      2 |      3 |      1 |      A |      1 |      4 |      1 |
+  6|         Warg Riders|      9 |      3 |      2 |      2 |      B |      1 |      3 |      1 |
+  1|        Spiked_Troll|      6 |      2 |      0 |      4 |      D |      3 |      2 |      3 |
+  6|              Goblin|      3 |      3 |      2 |      2 |      B |      1 |      3 |      1 |
+
+
+	 E Q U I P M E N T  S T A T S
+                Name               Weapon       Missile Weapon       Armour 
+      Hobgoblin Lord|Bastard Sword [dam:2]         None [dam:0] Plate+Shield  
+  Red Goblin Archers|      Dagger [dam:2]   Orcish bow [dam:2]        Chain  
+        Great Goblin|  Long Sword [dam:2]         None [dam:0] Chain+Shield  
+ Lesser_Night_Goblin|    Scimitar [dam:1]        Sling [dam:2]       Shield  
+         Warg Riders|  Long Spear [dam:2]         None [dam:0] Chain+Shield  
+        Spiked_Troll| 2-Hand Mace [dam:4]         None [dam:0]        Plate  
+              Goblin|  Long Sword [dam:2]         None [dam:0] Chain+Shield  
+

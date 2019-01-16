@@ -1,0 +1,54 @@
+Wounds:1
+Name:High Elf Warrior
+BSkill:4
+Tough:B
+Weapon_Damage:0
+Weapon:Long Sword
+Attacks:1
+Group:Elves
+WStr:2
+Init:5
+Nrof:9
+WSkill:4
+Armour:Mithric
+Move:4.5/4
+RouteFac:1.0
+Missile_Weapon_Damage:0
+Missile_Weapon:None
+UNITEND
+Wounds:1
+Name:High Elf Lord
+BSkill:4
+Tough:B
+Weapon_Damage:0
+Weapon:Long Sword
+Attacks:1
+Group:Elves
+WStr:2
+Init:5
+Nrof:4
+WSkill:4
+Armour:Mithric+Shield
+Move:4.5/4
+RouteFac:1.0
+Missile_Weapon_Damage:0
+Missile_Weapon:None
+UNITEND
+Wounds:1
+BSkill:4
+Name:Wood_Elf
+Tough:B
+Weapon_Damage:0
+Weapon:None
+Attacks:1
+Group:Elves
+WStr:2
+Init:4
+Nrof:6
+WSkill:4
+Armour:Chain+Shield
+Move:4.5/4
+RouteFac:1.0
+Missile_Weapon_Damage:4
+Missile_Weapon:Elven bow
+UNITEND

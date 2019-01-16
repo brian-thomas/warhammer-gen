@@ -1,0 +1,108 @@
+Wounds:1
+Name:Hobgoblin Lord
+BSkill:2
+Tough:C
+Weapon_Damage:0
+Weapon:Bastard Sword
+Attacks:1
+Group:Hobgoblin
+WStr:2
+Init:3
+Nrof:6
+WSkill:4
+Armour:Plate+Shield
+Move:4/3
+RouteFac:0.8
+Missile_Weapon_Damage:0
+Missile_Weapon:None
+UNITEND
+Wounds:3
+BSkill:0
+Name:Hill Troll
+Tough:B
+Weapon_Damage:0
+Weapon:2-Hand Club
+Attacks:3
+Group:troll
+WStr:4
+Init:1
+Nrof:6
+WSkill:2
+Armour:BrestPlate+Shield
+Move:6/6
+RouteFac:0.8
+Missile_Weapon_Damage:0
+Missile_Weapon:None
+UNITEND
+Wounds:1
+BSkill:3
+Name:Red Goblin Archers
+Tough:B
+Weapon_Damage:0
+Weapon:Dagger
+Attacks:1
+Group:Goblin
+WStr:2
+Init:2
+Nrof:18
+WSkill:3
+Armour:None
+Move:4/3
+RouteFac:0.8
+Missile_Weapon_Damage:2
+Missile_Weapon:Orcish bow
+UNITEND
+Wounds:1
+BSkill:3
+Name:Great Goblin
+Tough:B
+Weapon_Damage:0
+Weapon:Long Sword
+Attacks:1
+Group:Goblin
+WStr:2
+Init:3
+Nrof:18
+WSkill:3
+Armour:Chain+Shield
+Move:4/3
+RouteFac:0.8
+Missile_Weapon_Damage:0
+Missile_Weapon:None
+UNITEND
+Wounds:1
+Name:Lesser_Night_Goblin
+BSkill:3
+Tough:A
+Weapon_Damage:0
+Weapon:Scimitar
+Attacks:1
+Group:Goblin
+WStr:1
+Init:4
+Nrof:30
+WSkill:2
+Armour:None
+Move:3.5/3
+RouteFac:0.8
+Missile_Weapon_Damage:2
+Missile_Weapon:Sling
+UNITEND
+Wounds:1
+Name:Warg Riders
+BSkill:2
+Tough:B
+Weapon_Damage:0
+Weapon:Long Spear
+Attacks:1
+Group:Goblin
+WStr:2
+Init:3
+Nrof:9
+Armour:Shield
+WSkill:3
+Move:9/9
+RouteFac:0.8
+Missile_Weapon_Damage:0
+Missile_Weapon:None
+UNITEND

@@ -1,0 +1,82 @@
+head	1.1;
+access;
+symbols;
+locks
+	thomas:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	99.03.20.17.45.48;	author thomas;	state Exp;
+branches;
+next	;
+
+
+desc
+@beta version, but incomplete
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@# RCS: $Id:$ 
+#
+# Warhammer Race stats file
+#
+# Various fields available:
+#         Name -	Any string, name of race 
+#         Move -	Movement in inches, unarmoured/armoured value separated by '/' 
+#       WSkill -	Racial Weapon (melee) Skill
+#       BSkill -	Racial Bow (missile) Skill
+#         WStr -	Strength of Weapon (melee) Attack
+#        Tough -	Toughness Factor
+#       Wounds -	Number of Wounds
+#         Init -	Initiative level
+#      Attacks -	Number of Attacks
+# Route_Factor - 	Route Factor
+# 
+#Name          | Group | Move | WSkill | BSkill | WStr | Tough | Wounds | Init | Attacks | Route_Factor
+Name|Group|Move|WSkill|BSkill|WStr|Tough|Wounds|Init|Attacks|RouteFac
+#
+# HUMANS 
+#
+  Mounted_Knight  | Human | 8/8  |   3    |   3    |  2   |   B   |   1    |   3  |    1    |  1.0  
+  Man-at-arms     | Human | 4/3  |   3    |   3    |  2   |   B   |   1    |   3  |    1    |  1.0  
+  Yeoman          | Human | 4/3  |   2    |   2    |  1   |   B   |   1    |   3  |    1    |  1.0 
+  Peasant         | Human | 4/3  |   1    |   1    |  1   |   B   |   1    |   3  |    1    |  0.8 
+#
+# HALFLINGS
+#
+  Halfling     | Hobbit | 3/2  |   2    |   4    |  1   |   A   |   1    |   5  |    1    |  1.0 
+#
+# DWARVES 
+#
+  Dwarf        | Dwarf | 3.5/3.5|   4    |   3    |  2   |   C   |   1    |   2  |    1    |  1.333
+#
+# ELVES
+#
+  Sea_Elf      | Elves | 4.5/4 |   4    |   4    |  2   |   B   |   1    |   6  |    1    |  1.0  
+  High_Elf     | Elves |4.5/4 |   4    |   4    |  2   |   B   |   1    |   6  |    1    |  1.0  
+  Wood_Elf     | Elves |4.5/4 |   4    |   5    |  2   |   B   |   1    |   6  |    1    |  1.0  
+  Night_Elf    | Elves | 4.5/4 |   4    |   4    |  2   |   B   |   1    |   5  |    1    |  1.0  
+#
+# GOBLINS
+#
+  Night_Goblin | Goblin | 4/3  |   2    |   3    |  2   |   B   |   1    |   2  |    1    |  0.8  
+  Red_Goblin   | Goblin | 4/3  |   3    |   3    |  2   |   B   |   1    |   2  |    1    |  0.8  
+  Goblin       | Goblin | 4/3  |   3    |   2    |  2   |   B   |   1    |   3  |    1    |  0.8  
+  Great Goblin | Goblin | 4/3  |   3    |   3    |  2   |   B   |   1    |   3  |    1    |  0.8  
+  Lesser_Goblin| Goblin | 3/2  |   2    |   2    |  1   |   A   |   1    |   3  |    1    |  0.8  
+  Lesser_Night_Goblin| Goblin | 3.5/3  |   2    |   3    |  1   |   A   |   1    |   4  |    1    |  0.8  
+#
+# ORCS 
+#
+  Orc          | Orc | 4/3  |   3    |   3    |  2   |   C   |   1    |   2  |    1    |  0.8  
+#
+# Hobgoblins
+#
+  Hobgoblin    | Hobgoblin | 4/3  |   3    |   2    |  2   |   C   |   1    |   3  |    1    |  0.8  
+@
